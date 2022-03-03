@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kirandalawai
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning reactJs
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me email: dalawai17@gmail.com
 <!---
